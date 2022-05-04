@@ -9,3 +9,6 @@ def jobscheduler(f,n):
     print(f())
 n=int(input())
 jobscheduler(f,n)
+
+#TimeComplexity:o(n)
+#SpaceComplexity:o(1)

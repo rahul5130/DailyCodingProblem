@@ -35,4 +35,8 @@ while H1:
         H1=H1.next
         H2=H2.next
 
+#TimeComplexity:o(n+m)
+#SpaceComplexity:o(1)
+
+
 

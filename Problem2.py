@@ -11,5 +11,9 @@ for i in range(len(l)):
         s[i]*=l[j]
 print(s)
 
+#TimeComplexity:o(n**n)
+#SpaceComplexity:o(n)
+
+
 
 

@@ -18,3 +18,7 @@ def count(n):
     return count(n-1)+count(n-2)
 print(count(n))
 
+#TimeComplexity:o(2**n)
+#SpaceComplexity:o(1)
+
+

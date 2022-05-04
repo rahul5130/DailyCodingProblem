@@ -45,3 +45,7 @@ while temp.next:
 temp2.next=temp2.next.next
 s.printl()
 
+#TimeComplexity:o(n)
+#SpaceComplexity:o(1)
+
+

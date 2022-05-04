@@ -24,3 +24,8 @@ s.record(1)
 print(s.get_last(1))
 #gives output as 1
 
+#for both record and get_last function complexities are same i.e
+#TimeComplexity:o(1)
+#SpaceComplexity:o(1)
+
+

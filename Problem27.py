@@ -12,3 +12,7 @@ for i in s:
         l.append(i)
 print(True if len(l)==0 else False)
 
+#TimeComplexity:o(n)
+#SpaceComplexity:o(n)
+
+

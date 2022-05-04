@@ -26,4 +26,8 @@ arr = [4,2,1,3,2,1,9,4,3]
 k = 3
 printMax(arr, len(arr), k)
 
+#TimeComplexity:o(n)
+#SpaceComplexity:o(n)
+
+
 

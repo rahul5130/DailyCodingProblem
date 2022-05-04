@@ -18,3 +18,7 @@ def autocompete(st,l):
 
 
 print(autocompete(st,l))
+
+#TimeComplexity:o(n)
+#SpaceComplexity:o(n)
+

@@ -46,5 +46,8 @@ else:
     if flag==0:
         print('null')
 
+#TimeComplexity:o(n*m)
+#SpaceComplexity:o(n*m)
+
 
 

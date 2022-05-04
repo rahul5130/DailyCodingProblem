@@ -14,5 +14,9 @@ for i in range(len(l)-2,-1,-1):
         p*=l[i+1]
 print(s)
 
+#TimeComplexity:o(n)
+#SpaceComplexity:o(n)
+
+
 
 

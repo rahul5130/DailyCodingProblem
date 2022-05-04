@@ -10,3 +10,6 @@ second=0
 for i in l:
     second,first=first,max(second+i,first)
 print(first)
+
+#TimeComplexity:o(n)
+#SpaceComplexity:o(1)

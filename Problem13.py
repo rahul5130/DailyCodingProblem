@@ -26,3 +26,7 @@ for i in range(len(k)):
         st=low
 print(e-st)
 
+#TimeComplexity:o(n)
+#SpaceComplexity:o(n)
+
+

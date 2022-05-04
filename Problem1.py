@@ -20,3 +20,6 @@ for i in d:
     d[i]+=1
 else:
     print("False")
+
+#TimeComplexity:o(n)
+#SpaceComplexity:o(n)

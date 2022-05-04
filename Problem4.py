@@ -17,6 +17,10 @@ for i in range(len(l)):
 else:
     print(len(l)+1)
 
+#TimeComplexity:o(n)
+#SpaceComplexity:o(1)
+
+
 
 
 
